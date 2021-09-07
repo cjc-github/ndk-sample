@@ -38,6 +38,6 @@ https://developer.android.google.cn/studio/projects/install-ndk
 |  apk名称    |  apk描述    |
 | ---- | ---- | 
 |   jni1.apk   |  显示cpp字符串    |
-|      |      |
+|  jni2.apk    |  通过点击事件触发native函数    |
 |      |      |
 
