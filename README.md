@@ -1,13 +1,13 @@
 # ndk实例
 这里是一些ndk实例，其中有一部分是参考来自官网NDK示例和NativeFlowBench  
 
-官网参考网址：  
+**官网**  
 https://developer.android.google.cn/ndk/samples  
 
-官网NDK示例参考网址：  
+**官网NDK示例**  
 https://github.com/android/ndk-samples  
 
-NativeFlowDroid参考网址：  
+**NativeFlowDroid**    
 https://github.com/arguslab/NativeFlowBench  
 
 
@@ -21,13 +21,21 @@ ndkVersion 22.1.717670
 Gradle Plugin version 4.1.3 Gradle Version 6.5  
 JDK可以使用AndroidStudio自带的，也可以换成自己安装的，默认使用1.8  
 
+**NDK使用入门**
+
+https://developer.android.google.cn/ndk/guides/
+
+**安装及配置NDK和CMake**
+
+https://developer.android.google.cn/studio/projects/install-ndk
+
 具体安装和配置自行百度  
 
 ## 二、实例列表
 
 |  apk名称    |  apk描述    |
 | ---- | ---- | 
-|      |      |
+|   jni1.apk   |  显示cpp字符串    |
 |      |      |
 |      |      |
 
