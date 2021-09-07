@@ -33,6 +33,8 @@ https://developer.android.google.cn/studio/projects/install-ndk
 
 ## 二、实例列表
 
+由于github上传的问题，
+
 |  apk名称    |  apk描述    |
 | ---- | ---- | 
 |   jni1.apk   |  显示cpp字符串    |
